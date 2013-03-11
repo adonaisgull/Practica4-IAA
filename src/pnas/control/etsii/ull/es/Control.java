@@ -2,6 +2,7 @@ package pnas.control.etsii.ull.es;
 
 public class Control {
 
+	private Estado estado;
 	/**
 	 * @param args
 	 */
